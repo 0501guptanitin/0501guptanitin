@@ -60,7 +60,7 @@ I've shipped across finance, commerce, and food tech — and one thing stays con
 
 ## 📫 Let's Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/nitin-gupta-0352701a1/
+- 🔗 LinkedIn: [linkedin.com/in/nitin-gupta-0352701a1](https://www.linkedin.com/in/nitin-gupta-0352701a1/)
 - 📬 Email: [0501guptanitin@gmail.com](mailto:0501guptanitin@gmail.com)
 
 ---
