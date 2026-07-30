@@ -93,12 +93,6 @@ I enjoy solving complex engineering challenges through clean architecture, scala
 
 ---
 
----
-# 📊 GitHub Stats
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0501guptanitin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0501guptanitin&layout=compact&theme=radical)
----
-
 # 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/nitin-gupta-0352701a1/
